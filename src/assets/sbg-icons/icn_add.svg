@@ -1,0 +1,8 @@
+<svg id="icn_add"  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+    <defs>
+        <style>.a{fill:currentColor;}</style>
+    </defs>
+    <title>icn_add</title>
+    <path class="a"
+          d="M18,11.5H12.5V6a.5.5,0,0,0-1,0v5.5H6a.5.5,0,0,0-.5.5.5.5,0,0,0,.5.5h5.5V18a.5.5,0,0,0,1,0V12.5H18a.5.5,0,0,0,.5-.5A.5.5,0,0,0,18,11.5Z"/>
+</svg>

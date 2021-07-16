@@ -1,0 +1,9 @@
+<svg id="icn_add_circle_solid" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+    <defs>
+        <style>.a{fill:currentColor;}</style>
+    </defs>
+    <title>icn_add_circle_solid</title>
+    
+    <path class="b"
+          d="M12,2A10,10,0,1,0,22,12,10,10,0,0,0,12,2Zm5,10.5H12.5V17a.5.5,0,0,1-1,0V12.5H7a.5.5,0,0,1-.5-.5.5.5,0,0,1,.5-.5h4.5V7a.5.5,0,0,1,1,0v4.5H17a.5.5,0,0,1,.5.5A.5.5,0,0,1,17,12.5Z"/>
+</svg>

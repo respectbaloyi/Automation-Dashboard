@@ -1,0 +1,22 @@
+table {
+    width: 100%;
+  }
+  
+
+  .logo{
+    text-align: left;
+    height: 50px;
+    background: #0033AA;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 2em;
+    }
+        
+    .header {
+    display: inline;
+    height: 100px;
+    color: white;
+    vertical-align:10px;
+    font-size: 1.9em;
+    padding: 24em;
+    }

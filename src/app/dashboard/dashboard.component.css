@@ -1,0 +1,69 @@
+.button1{
+    height: 200px;
+    width: 400px;
+    margin: 20px;
+    font-size: 20px;
+  }
+
+.button2{
+  height: 200px;
+  width: 400px;
+  margin: 20px;
+  font-size: 20px;
+  }
+  .button3{
+    height: 200px;
+    width: 400px;
+    margin: 20px;
+    font-size: 20px;
+  }
+  
+  .button4{
+    height: 200px;
+    width: 400px;
+    margin: 20px;
+    font-size: 20px;
+  }
+  .button5{
+    height: 200px;
+    width: 400px;
+    margin: 20px;
+    font-size: 20px;
+  }
+  
+  .button6{
+    height: 200px;
+    width: 400px;
+    margin: 20px;
+    font-size: 20px;
+  }
+  
+  .button7{
+    height: 200px;
+    width: 400px;
+    margin: 20px;
+    font-size: 20px;
+  }
+  
+  .button8{
+    height: 200px;
+    width: 400px;
+    margin: 20px;
+    font-size: 20px;
+  }
+  
+  .button9{
+    height: 200px;
+    width: 400px;
+    margin: 20px;
+    background: transparent;
+    border: none !important;
+    font-size:0;
+  }
+
+  .container{
+  width: 100%;
+  display: block;
+  /* border: 1px solid black;  */
+  text-align: center;
+} 
